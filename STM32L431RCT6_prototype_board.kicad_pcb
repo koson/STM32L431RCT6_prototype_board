@@ -2477,6 +2477,38 @@
     (stroke (width 0.1) (type default)) (layer "Edge.Cuts") (tstamp e87463d7-5da5-4f4b-a285-20a32af9f19b))
   (gr_arc locked (start 157.3 53.25) (mid 157.592893 52.542893) (end 158.3 52.25)
     (stroke (width 0.1) (type default)) (layer "Edge.Cuts") (tstamp fb0b629f-f1ba-46f9-a18a-f3c88e51a22a))
+  (gr_poly
+    (pts
+      (xy 161 50)
+      (xy 161.48 51.6)
+      (xy 161.96 50)
+    )
+
+    (stroke (width 0.15) (type solid)) (fill solid) (layer "User.4") (tstamp 1b3c9157-76bd-477a-baab-ee0fafdbc490))
+  (gr_poly
+    (pts
+      (xy 166 50)
+      (xy 166.48 51.6)
+      (xy 166.96 50)
+    )
+
+    (stroke (width 0.15) (type solid)) (fill solid) (layer "User.4") (tstamp 3938ee72-b836-43b5-8e6a-2bebe8db7f35))
+  (gr_poly
+    (pts
+      (xy 212 56.6)
+      (xy 210.4 57.08)
+      (xy 212 57.56)
+    )
+
+    (stroke (width 0.15) (type solid)) (fill solid) (layer "User.4") (tstamp ac2afa5e-6ac4-4f45-9a32-a8d09999a025))
+  (gr_poly
+    (pts
+      (xy 163.52 50)
+      (xy 164 51.6)
+      (xy 164.48 50)
+    )
+
+    (stroke (width 0.15) (type solid)) (fill solid) (layer "User.4") (tstamp f1138bfd-71dc-4f2a-8623-6704ca58ccac))
   (gr_text "C15" (at 169.16 53.6) (layer "F.SilkS") (tstamp 02b1786c-a5b4-4d11-997d-7507697124ad)
     (effects (font (size 0.9 0.7) (thickness 0.15)) (justify bottom))
   )
@@ -2528,6 +2560,9 @@
   (gr_text "A6" (at 179.32 72.15) (layer "F.SilkS") (tstamp 71ac464c-2cfa-4b32-83a6-969d1d73ba59)
     (effects (font (size 0.9 0.7) (thickness 0.15)) (justify bottom))
   )
+  (gr_text "STM32L431CCT6" (at 216.8 57.6) (layer "F.SilkS") (tstamp 75e7ee0b-f484-4c1b-91ba-2db5b0ec0eb8)
+    (effects (font (size 0.9 0.7) (thickness 0.15)) (justify bottom))
+  )
   (gr_text "A4" (at 174.24 72.15) (layer "F.SilkS") (tstamp 77f97a56-06cf-4715-afbb-8ae0a6d4aae1)
     (effects (font (size 0.9 0.7) (thickness 0.15)) (justify bottom))
   )
@@ -2535,6 +2570,9 @@
     (effects (font (size 0.9 0.7) (thickness 0.15)) (justify bottom))
   )
   (gr_text "B14" (at 202.18 72.15) (layer "F.SilkS") (tstamp 7ad1feca-d421-4d82-b2b3-c5bc418d6a9d)
+    (effects (font (size 0.9 0.7) (thickness 0.15)) (justify bottom))
+  )
+  (gr_text "3V3" (at 166.6 49.6) (layer "F.SilkS") (tstamp 808d4a0c-497b-4eb1-ba61-476d7ac23592)
     (effects (font (size 0.9 0.7) (thickness 0.15)) (justify bottom))
   )
   (gr_text "B5" (at 184.4 53.6) (layer "F.SilkS") (tstamp 8df845bc-d3dd-46fb-8d28-dae2c73bc3e6)
@@ -2562,6 +2600,9 @@
     (effects (font (size 0.9 0.7) (thickness 0.15)) (justify bottom))
   )
   (gr_text "A11" (at 194.56 53.6) (layer "F.SilkS") (tstamp b6eba838-5822-41eb-92bc-ec56a240aba1)
+    (effects (font (size 0.9 0.7) (thickness 0.15)) (justify bottom))
+  )
+  (gr_text "NC" (at 161.6 49.6) (layer "F.SilkS") (tstamp b6fc8780-f754-4588-a48c-de4c3cbc0806)
     (effects (font (size 0.9 0.7) (thickness 0.15)) (justify bottom))
   )
   (gr_text "B9" (at 174.24 53.6) (layer "F.SilkS") (tstamp ba41b6bf-e0d9-4711-8b14-a278ba229991)
@@ -2607,6 +2648,9 @@
     (effects (font (size 0.9 0.7) (thickness 0.15)) (justify bottom))
   )
   (gr_text "A10" (at 197.1 53.6) (layer "F.SilkS") (tstamp f0338216-5425-49fb-a546-80502910f6dd)
+    (effects (font (size 0.9 0.7) (thickness 0.15)) (justify bottom))
+  )
+  (gr_text "RST" (at 164 49.6) (layer "F.SilkS") (tstamp f2ac7412-25fc-4e13-b2eb-49d8464a9dfe)
     (effects (font (size 0.9 0.7) (thickness 0.15)) (justify bottom))
   )
   (gr_text "A1" (at 166.337708 72.15) (layer "F.SilkS") (tstamp f3f5b23a-9ebb-4d28-891d-2123c4a321c4)
